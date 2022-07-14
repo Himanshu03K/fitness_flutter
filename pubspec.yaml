@@ -90,7 +90,6 @@ flutter:
     - assets/images/exercises/
     - assets/icons/home/
     - assets/icons/workouts/
-    - assets/icons/social_networks/
     - assets/videos/workouts/
 
   # An image asset can refer to one or more resolution-specific "variants", see

@@ -2,7 +2,7 @@ import 'package:fitness_flutter/core/const/path_constants.dart';
 import 'package:fitness_flutter/core/const/text_constants.dart';
 import 'package:fitness_flutter/data/exercise_data.dart';
 import 'package:fitness_flutter/data/workout_data.dart';
-import 'package:fitness_flutter/screens/onboarding/widget/onboarding_tile.dart';
+import 'package:fitness_flutter/screens/onboarding/widget/onboarding_title.dart';
 
 class DataConstants {
   // Onboarding
